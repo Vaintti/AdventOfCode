@@ -9,5 +9,8 @@ using namespace std;
 
 int main()
 {
-	day1_task1();
+	cout << "Day 1 task 1\n";
+	day1Task1();
+	cout << "\nDay 1 task 2\n";
+	day1Task2();
 }
