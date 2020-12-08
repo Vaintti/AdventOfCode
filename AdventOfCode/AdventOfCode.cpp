@@ -15,4 +15,6 @@ int main()
 	//day1Task2();
 	cout << "\nDay 2 task 1\n";
 	day2Task1();
+	cout << "\nDay 2 task 2\n";
+	day2Task2();
 }
