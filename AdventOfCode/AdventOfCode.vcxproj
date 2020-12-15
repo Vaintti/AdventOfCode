@@ -142,16 +142,21 @@
     <ClCompile Include="AdventOfCode.cpp" />
     <ClCompile Include="day1.cpp" />
     <ClCompile Include="day2.cpp" />
+    <ClCompile Include="day3.cpp" />
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="day1.h" />
     <ClInclude Include="day2.h" />
+    <ClInclude Include="day3.h" />
   </ItemGroup>
   <ItemGroup>
     <Text Include="..\..\..\..\Downloads\input.txt">
       <DeploymentContent>true</DeploymentContent>
     </Text>
     <Text Include="..\..\..\..\Downloads\input_d2_t1.txt">
+      <DeploymentContent>true</DeploymentContent>
+    </Text>
+    <Text Include="..\..\..\..\Downloads\input_d3_t1.txt">
       <DeploymentContent>true</DeploymentContent>
     </Text>
   </ItemGroup>
