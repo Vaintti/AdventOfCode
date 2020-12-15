@@ -18,6 +18,8 @@ int main()
 	//day2Task1();
 	//cout << "\nDay 2 task 2\n";
 	//day2Task2();
-	cout << "\nDay 3 task 1\n";
-	day3Task1();
+	//cout << "\nDay 3 task 1\n";
+	//day3Task1();
+	cout << "\nDay 3 task 2\n";
+	day3Task2();
 }
